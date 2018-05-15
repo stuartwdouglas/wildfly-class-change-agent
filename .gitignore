@@ -1,0 +1,10 @@
+*.project
+*.settings
+*.classpath
+*target/
+*~
+*.iml
+.idea
+fakereplace.index
+.DS_Store
+dependency-reduced-pom.xml
