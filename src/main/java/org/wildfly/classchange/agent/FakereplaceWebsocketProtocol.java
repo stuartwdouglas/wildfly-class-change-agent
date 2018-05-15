@@ -15,7 +15,7 @@
  *  limitations under the License.
  */
 
-package org.fakereplace.agent;
+package org.wildfly.classchange.agent;
 
 import java.io.DataOutputStream;
 import java.io.OutputStream;
